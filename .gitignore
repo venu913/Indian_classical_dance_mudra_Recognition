@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.part
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Node & Frontend Build Artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+node_modules/
+dist/
+
+# Large Datasets (Host externally on Kaggle)
+data/
+*.zip
+*.tar.gz
+
+# IDE / OS junk
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

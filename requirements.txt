@@ -1,0 +1,21 @@
+# Core Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+timm>=0.9.0
+pillow>=9.5.0
+
+# API Backend & Server
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+
+# Scientific & Evaluation
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+tqdm>=4.65.0

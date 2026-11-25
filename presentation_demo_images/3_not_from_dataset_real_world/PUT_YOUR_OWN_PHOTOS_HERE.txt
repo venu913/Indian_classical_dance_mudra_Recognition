@@ -1,0 +1,1 @@
+Take photos using your phone or webcam and put them in this folder to prove to the professor that the AI works on completely new data!
